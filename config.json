@@ -1,8 +1,8 @@
 {
-    "token":"your_token",
+    "token":"MTIwMzQ0MDE3MDQ5MDEzNDU5OA.GTf1AX.QD_aBPQqDc72ust3kk4tBhiPuyPRDgkjzU-H0k",
     "prefix":"!",
-    "channelVoiceId":"channel_id",
-    "categoryId":"category_id",
+    "channelVoiceId":"1198189752495644713",
+    "categoryId":"1198189675064606741",
     "voiceLimits":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20,25,30,35,40,45,99],
     "emojis":{
         "public":"<:66346346:1138862136072880148>",
